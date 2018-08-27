@@ -1,7 +1,21 @@
-# GSCP Client
+# GSCP Client 0.14.1
 client side to GSCP API
 
-## client version 0.14.1
+## Getting Started
+
+1. `npm i`
+2. `npm start`
+
+## Testing
+`npm test`
+
+## Deploying
+
+### Stage
+- to do
+
+### Production
+- to do
 
 ## to do
 - [x] improve application structure to something scalable and maintainable (redux) [8/28/2017]
