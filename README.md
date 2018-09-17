@@ -1,4 +1,4 @@
-# GSCP Client 0.14.1
+# GSCP Client 1.1.1
 client side to GSCP API
 
 ## Getting Started
