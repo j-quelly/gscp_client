@@ -27,7 +27,6 @@ client side to GSCP API
     - [x] learn how to unit test router with redux [9/7/2017]
     - [ ] e2e/integration test router & redux
 - [ ] need a proper release cycle from dev to stage and prod
-- [ ] now might be a good time for sass?
 - [x] add a task runner for version bumping [8/27/2017]
 - [ ] rewrite client utility as a proper es6/7 class
     - [ ] comment/document
